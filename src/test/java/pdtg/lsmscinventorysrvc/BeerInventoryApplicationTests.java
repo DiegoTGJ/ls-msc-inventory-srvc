@@ -1,4 +1,4 @@
-package pdtg.lsmscinventorysrvc.beer.inventory.service;
+package pdtg.lsmscinventorysrvc;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
