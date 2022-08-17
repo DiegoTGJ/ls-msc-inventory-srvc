@@ -1,4 +1,4 @@
-package pdtg.lsmscinventorysrvc.web.model;
+package pdtg.ls.brewery.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

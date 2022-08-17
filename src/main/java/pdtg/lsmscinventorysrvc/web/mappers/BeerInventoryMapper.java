@@ -1,7 +1,7 @@
 package pdtg.lsmscinventorysrvc.web.mappers;
 
 import pdtg.lsmscinventorysrvc.domain.BeerInventory;
-import pdtg.lsmscinventorysrvc.web.model.BeerInventoryDto;
+import pdtg.ls.brewery.model.BeerInventoryDto;
 import org.mapstruct.Mapper;
 
 

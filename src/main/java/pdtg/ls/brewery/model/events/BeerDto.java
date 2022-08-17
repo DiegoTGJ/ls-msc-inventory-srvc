@@ -1,4 +1,4 @@
-package pdtg.ls.common.events;
+package pdtg.ls.brewery.model.events;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonInclude;

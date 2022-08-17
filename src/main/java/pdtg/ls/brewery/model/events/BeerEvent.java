@@ -1,4 +1,4 @@
-package pdtg.ls.common.events;
+package pdtg.ls.brewery.model.events;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

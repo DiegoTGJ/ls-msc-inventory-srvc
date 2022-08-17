@@ -4,7 +4,7 @@ import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.jms.annotation.JmsListener;
 import org.springframework.stereotype.Service;
-import pdtg.ls.common.events.NewInventoryEvent;
+import pdtg.ls.brewery.model.events.NewInventoryEvent;
 import pdtg.lsmscinventorysrvc.config.JmsConfig;
 import pdtg.lsmscinventorysrvc.domain.BeerInventory;
 import pdtg.lsmscinventorysrvc.repositories.BeerInventoryRepository;

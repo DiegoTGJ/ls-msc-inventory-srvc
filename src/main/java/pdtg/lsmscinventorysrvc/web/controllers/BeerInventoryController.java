@@ -2,7 +2,7 @@ package pdtg.lsmscinventorysrvc.web.controllers;
 
 import pdtg.lsmscinventorysrvc.repositories.BeerInventoryRepository;
 import pdtg.lsmscinventorysrvc.web.mappers.BeerInventoryMapper;
-import pdtg.lsmscinventorysrvc.web.model.BeerInventoryDto;
+import pdtg.ls.brewery.model.BeerInventoryDto;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;
